@@ -1,13 +1,12 @@
 import java.time.LocalDateTime;
 
-public class PartyEvents {
+public class RecruitmentEvents {
     private String nameEvents;
     private String location;
     private LocalDateTime date;
     private LocalDateTime time;
     private int duration;
-    private String nameTheme;
-    private String colorTheme;
-    private String partyType;
-
+    private String companyName;
+    private String employerName;
+    private String jobType;
 }
